@@ -72,7 +72,8 @@
 <br>
 
 ## Output:
-![image](https://github.com/user-attachments/assets/06361c4b-c8d8-420e-b448-9964c9f6840f)
+![WhatsApp Image 2024-11-23 at 12 03 34_f297c244](https://github.com/user-attachments/assets/3b93ee07-24cc-4eb5-90de-04774a7d1fe1)
+
 
 ### Name:RAJARAMAN V
 ### Register Number:212223110038
